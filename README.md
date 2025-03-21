@@ -1,6 +1,6 @@
 # SAP ALV Report
 
-![SAP ALV Report](./An_illustrated_README_cover_image_for_a_project_ti.png)
+![SAP ALV Report](https://github.com/rakellkizz/SAP-ALV-Report/issues/1#issue-2937287647)
 
 ## 📌 Introdução
 Este projeto apresenta um relatório ALV (ABAP List Viewer) desenvolvido em ABAP para exibição eficiente de dados no ambiente SAP. O ALV oferece funcionalidades avançadas para visualização, filtragem e exportação de informações dentro do SAP GUI.
